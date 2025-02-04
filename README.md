@@ -6,3 +6,8 @@ Ne pas modifier ce fichier.
 - le fichier caché <code>.classpath</code>
 - le dossier <code>src/</code>
 - le fichier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
+
+
+Modification par Gustin-MAILHE:
+ - Creation de la classe Livre
+ - Creation de la classe TestLivre
