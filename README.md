@@ -9,5 +9,12 @@ Ne pas modifier ce fichier.
 
 
 Modification par Gustin-MAILHE:
- - Creation de la classe Livre
- - Creation de la classe TestLivre
+ - Creation de la class Livre
+ - Creation de la class TestLivre
+ - Creation de la class Author
+ - Creation de la class Book
+ - Creation de la class TestAuthor
+ - Creation de la class TestBook
+ - Creation de la class Customer
+ - Creation de la class Invoice
+ - Creation de la class TestMain
