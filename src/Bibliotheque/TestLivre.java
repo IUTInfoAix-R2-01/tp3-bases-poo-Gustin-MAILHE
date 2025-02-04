@@ -7,7 +7,7 @@ public class TestLivre {
         System.out.println("Le livre s'appelle " 
         + l1.getName() + ", il coute " + l1.getPrice() + ", et il y a " +
                 l1.getQuantity() + " exemplaire");
-          
+          //Ceci est un commentaire
         System.out.println(l1.toString());
     }
 
